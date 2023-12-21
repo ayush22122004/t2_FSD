@@ -1,0 +1,9 @@
+/* to design login form having fields like username password submit and reset button while hovering it should be expanded 20% horizontal with the delay of 2 sec the expantion complete in 4sec */
+#tran{
+    width: 100px;
+    transition-delay:4000ms ;
+    transition-duration: 4000ms;
+}
+#tran:hover{
+    width: 200px;
+}

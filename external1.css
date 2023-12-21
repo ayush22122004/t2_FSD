@@ -1,0 +1,40 @@
+h5{color: red}
+pre{color:yellow}
+div{color:blue; background-color: green; height:300px; width:400px}
+/* id: */
+#para1{
+
+    color: red; background-color: green}
+    #para2{
+      
+        color: blue; background-color: pink
+    }
+/* class: */
+.para3{
+    color: black;
+    font-size: 500%;
+}
+.para4{
+    background-color: red;
+}
+/* universal selector: */
+*{
+    color: red; background-color: aqua;
+}
+/* Desendant selector */
+div p{
+    color: blue;
+}
+/* child selector */
+div > p{color:purple}
+/* Attribute Selector */
+input[type="text"]
+{
+    color: orange;
+}
+input[type="email"]{
+    color: green;
+}
+.table{
+    background-color: orange;
+}

@@ -1,0 +1,6 @@
+div{
+    background-image: url("download.jpg");
+    background-repeat: repeat-x;
+    height:500px;
+    width:500px;
+}

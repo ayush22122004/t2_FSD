@@ -1,0 +1,17 @@
+#user:hover{
+    background-color: yellow;
+}
+#pass:hover{
+    background-color: pink;
+    
+}
+label:active{
+    color: pink;
+}
+input[type="submit"]:hover{
+    color: blue;
+}
+
+input[type="reset"]:hover{
+    color: blue;
+}

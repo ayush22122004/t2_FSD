@@ -1,0 +1,13 @@
+/* to display 2 sections of 40% width using div tag both this sections are having title and dis. both this div tag having :horizontal adjacent to each other */
+#div1{
+    height:500px;
+    width: 40%;
+    border: 1px solid red;
+    float:left;
+}
+#div2{
+    height:500px;
+    width:40%;
+    border: 3px dotted yellow;
+    float:left;
+}

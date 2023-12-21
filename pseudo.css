@@ -1,0 +1,22 @@
+a:link{
+    color: red;
+}
+a:visited{
+    color: green;
+}
+a:active{
+    color: blue;
+}
+h1::before{
+    content:"Hello World";
+    color: blue;
+}
+h2::selection{
+    background-color: yellow;
+    color: green;
+
+} 
+::marker{
+    color: blue;
+    font-size: 23px;
+}
